@@ -1,0 +1,15 @@
+{
+    "disableAutoUpdate": false,
+    "name": "DRAGON-ARCHER",
+    "author": "Dragon",
+    "description": "==",
+    "version": "1.0",
+    "servers": ["https://raw.githubusercontent.com/DragonTera/DRAGON-ARCHER/MASTER/"],
+    "options": {
+        "niceName": "DRAGON-ARCHER",
+        "guiName": "DRAGON-ARCHER",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js"
+    }
+}
